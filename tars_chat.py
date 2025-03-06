@@ -1,7 +1,7 @@
 import openai
 
 # OpenAI API Key
-openai.api_key = "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"
+openai.api_key = ""
 
 # 🤖 Function to Get TARS Response
 def get_tars_response(user_input):
